@@ -1,6 +1,6 @@
 ## Olá meu nome é Ingrid Moitinho e o meu apelido é "Guid"! 👋
 
-#Em 2023, dei início à minha transição de carreira ao adentrar no universo da tecnologia. E iniciei uma segunda graduação em Análise e Desenvolvimento de Sistemas na Faculdade Vincit 🎓.
+Em 2023, dei início à minha transição de carreira ao adentrar no universo da tecnologia. E iniciei uma segunda graduação em Análise e Desenvolvimento de Sistemas na Faculdade Vincit 🎓.
 
 - 📚 Atualmente estou estudando Desenvolvimento Full Stack - Front End & Back End no curso Descodificadas.
 - 📚 E Desenvolvimento Front-End no Vai na Web.  
