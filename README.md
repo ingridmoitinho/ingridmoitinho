@@ -2,14 +2,14 @@
 
 #Em 2023, dei início à minha transição de carreira ao adentrar no universo da tecnologia. E iniciei uma segunda graduação em Análise e Desenvolvimento de Sistemas na Faculdade Vincit 🎓.
 
-- 📚 Atualmente estou estudando Desenvolvimento Full Stack - Front End & Back End na Descodificadas.
+- 📚 Atualmente estou estudando Desenvolvimento Full Stack - Front End & Back End no curso Descodificadas.
 - 📚 E Desenvolvimento Front-End no Vai na Web.  
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=ingridmoitinho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
           
 
 
