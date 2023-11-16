@@ -1,27 +1,20 @@
-## Olá meu nome é Ingrid Moitinho e o meu apelido é "Guid"! 👋
+## Oi meu nome é Ingrid Moitinho 👋
 
-Em 2023, dei início à minha transição de carreira ao adentrar no universo da tecnologia. E iniciei uma segunda graduação em Análise e Desenvolvimento de Sistemas na Faculdade Vincit 🎓.
+- 📚 Atualmente estou cursando desenvolvimento full stack no curso Descodificadas.
+- 📚 Desenvolvimento font-end no Vai na Web.
+- 📚 Python no FEA-DEV.
 
-- 📚 Atualmente estou estudando Desenvolvimento Full Stack - Front End & Back End no curso Descodificadas.
-- 📚 E Desenvolvimento Front-End no Vai na Web.  
+[![card](https://github-readme-stats.vercel.app/api?username=ingridmoitinho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-[![card](https://github-readme-stats.vercel.app/api?username=ingridmoitinho&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Tecnologias 💻
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
- ```
-Visual Studio Code 
-```
 ## Contatos:
 
 <div>
-
 <a href="https://instagram.com/guiids" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ingridmoitinho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ingridmoitinho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
