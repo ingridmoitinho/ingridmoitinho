@@ -7,16 +7,16 @@
 
 
 ### <p align="center"> GitHub Stats ⚡<p align="center">
-<div align="center">
+<div style="text-align: center;">
   <a href="https://github.com/ingridmoitinho">
-   
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridmoitinho&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="centered image">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridmoitinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmoitinho&layout=compact&langs_count=7&theme=tokyonight"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmoitinho&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages">
   </center>
-</div>
+  </div>
+
 <br>
 
 <p align="center"> Studying now <p align="center">
